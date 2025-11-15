@@ -1,0 +1,5 @@
+{
+  "name": "FrameFlow",
+  "description": "A professional, advanced, and visually modern image gallery with features like search, categorization, pagination, and a full-screen lightbox viewer. Built with React and Tailwind CSS for a premium user experience.",
+  "requestFramePermissions": []
+}
